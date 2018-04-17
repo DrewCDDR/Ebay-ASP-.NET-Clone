@@ -1,0 +1,60 @@
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\NootBay Application.dll.config
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\NootBay Application.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\NootBay Application.pdb
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\csc.exe
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\csc.exe.config
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\csc.rsp
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\csi.exe
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\csi.exe.config
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\csi.rsp
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.AppContext.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Console.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Diagnostics.Process.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.IO.Compression.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.IO.FileSystem.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.IO.Pipes.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Security.AccessControl.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Security.Claims.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Threading.Thread.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.ValueTuple.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Xml.XPath.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\vbc.exe
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\vbc.exe.config
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\vbc.rsp
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\VBCSCompiler.exe
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\Visual\C#\NootBay Application\NootBay Application\obj\Debug\NootBay Application.csprojResolveAssemblyReference.cache
+D:\Code\Visual\C#\NootBay Application\NootBay Application\obj\Debug\NootBay Application.csproj.CoreCompileInputs.cache
+D:\Code\Visual\C#\NootBay Application\NootBay Application\obj\Debug\NootBay Application.csproj.CopyComplete
+D:\Code\Visual\C#\NootBay Application\NootBay Application\obj\Debug\NootBay Application.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\obj\Debug\NootBay Application.pdb
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\MySql.Data.dll
+D:\Code\Visual\C#\NootBay Application\NootBay Application\bin\MySql.Data.xml
